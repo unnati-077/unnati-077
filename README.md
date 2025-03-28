@@ -1,11 +1,4 @@
 # Hi, I'm Unnati! 👋  
-🚀 MERN Stack Developer | AI & ML Enthusiast  
-- 🔭 Working on **HomeBites** (MERN project)  
-- 🌱 Learning **AI/ML & Full-Stack Dev**  
-- 📫 Reach me at [LinkedIn](www.linkedin.com/in/unnati-girase-2a3abb280)
-
-
-# 💫 About Me:
 🚀 About Me<br>🔭 Grindin’ on: Crafting the 🔥 UI/UX for HomeBites & mastering DSA 💻<br>🤝 Collab mode on for: Building HomeBites with the squad<br>🌱 Leveling up in: UI/UX design & DSA 📊<br>💬 Talk to me about: Design, startups & problem-solving<br>⚡ Hot take: Good design isn’t just looks—it’s vibes! 😎
 
 
